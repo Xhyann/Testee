@@ -4,7 +4,7 @@
 
 int main(){
 
-printf("Bye,Bye , World! \n");
+printf("Bye, World! \n");
 return 0;
 
 }
