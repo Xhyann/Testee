@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-
-
 int main(){
-
-printf("Bye, World! \n");
-return 0;
+    char* hello = "Hello World";
+    printf("%s\n");
+    return 0;
 
 }
